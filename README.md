@@ -1,1 +1,1 @@
-The program is a Tagalog grammar and spelling corrector using LSTM and RNN. The model is an Encoder-Decoder Model and uses a Beam Search for the Search Algorithm.
+The program is a Tagalog grammar and spelling corrector using LSTM and RNN. The model is an Encoder-Decoder Model and uses a Beam Search for the Search Algorithm. This code was used in my thesis for Filipino Sign Language to Tagalog and Tagalog to Filipino Sign Language translator. It was awarded with Gold Thesis in the ECE department for T1 AY 2023-2024
